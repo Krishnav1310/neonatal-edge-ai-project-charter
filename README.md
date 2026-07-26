@@ -16,11 +16,4 @@ This repository contains the Project Charter presentation and related documentat
 - Edge AI Workflow
 - Future Roadmap
 
-## Version History
 
-### Version 1
-- Initial Project Charter
-- Problem Definition
-- Objectives
-- Scope
-- Timeline
