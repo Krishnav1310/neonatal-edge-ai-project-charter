@@ -1,4 +1,4 @@
-# Day 5 - Machine Learning Model Implementation
+# Machine Learning Model Implementation
 
 ## Overview
 
@@ -36,5 +36,34 @@ Random Forest Classifier
 - Accuracy
 - Classification Report
 - Confusion Matrix
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Progress Completed
+
+✔ Updated ML notebook
+
+✔ Added threshold-based preprocessing
+
+✔ Retrained Random Forest model
+
+✔ Generated model.pkl
+
+✔ Generated scaler.pkl
+
+✔ Generated label encoder
+
+✔ Prepared backend deployment files
+
+## Files Included
+
+- updated_model.ipynb
+- model.pkl
+- scaler.pkl
+- highrisk_label_encoder.pkl
+- threshold_configuration.md
+
+Next Step:
+Integrate the trained model with FastAPI and perform real-time predictions.
 
 The trained model will later be integrated with the FastAPI backend for real-time neonatal monitoring.
